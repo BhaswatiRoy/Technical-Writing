@@ -16,4 +16,4 @@ https://medium.com/@BhaswatiRoy
 
    Issue: https://github.com/OpenMined/writing/issues/162
    
-   Writing: https://blog.openmined.org/p/2775101c-3d9d-46d5-a7eb-fdc78121f7de/
+   Writing: https://blog.openmined.org/superfast-differential-privacy/
