@@ -2,7 +2,7 @@
 
 https://medium.com/@BhaswatiRoy
 
-## Moja Global Documentation Fix:
+## Moja Global Documentation Fix -
 
 1. FLINT Handbook -
 
