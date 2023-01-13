@@ -17,3 +17,11 @@ https://medium.com/@BhaswatiRoy
    Issue: https://github.com/OpenMined/writing/issues/162
    
    Writing: https://blog.openmined.org/superfast-differential-privacy/
+
+## OpenRefine Documentation Fix -
+   
+1. OpenRefine Website -    
+   
+   Issue: https://github.com/OpenRefine/openrefine.org/issues/153
+   
+   PR: https://github.com/OpenRefine/openrefine.org/pull/181
