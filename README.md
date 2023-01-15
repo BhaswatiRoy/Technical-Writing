@@ -25,3 +25,11 @@ https://medium.com/@BhaswatiRoy
    Issue: https://github.com/OpenRefine/openrefine.org/issues/153
    
    PR: https://github.com/OpenRefine/openrefine.org/pull/181
+
+## MDAnalysis Documentation Fix -
+ 
+1. MDAnalysis Website -
+
+   Issue: https://github.com/MDAnalysis/MDAnalysis.github.io/issues/214
+   
+   PR: https://github.com/MDAnalysis/MDAnalysis.github.io/pull/267
