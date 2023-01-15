@@ -50,5 +50,12 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/pymc-devs/pymcon/pull/112
    
+## Numpy Documentation Fix -
+
+1. Community Calendar link addition
+
+   Issue: https://github.com/numpy/numpy.org/issues/436
    
+   PR: https://github.com/numpy/numpy.org/pull/618
+
    
