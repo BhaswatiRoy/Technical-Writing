@@ -41,3 +41,14 @@ https://medium.com/@BhaswatiRoy
    Issue: https://github.com/lfortran/lcompilers_frontend/issues/6
    
    PR: https://github.com/lfortran/lcompilers_frontend/pull/56
+   
+## PYMC Documentation Fix -
+
+1. PyMCon Website Logo Replace -
+
+   Issue: https://github.com/pymc-devs/pymcon/issues/111
+   
+   PR: https://github.com/pymc-devs/pymcon/pull/112
+   
+   
+   
