@@ -33,3 +33,11 @@ https://medium.com/@BhaswatiRoy
    Issue: https://github.com/MDAnalysis/MDAnalysis.github.io/issues/214
    
    PR: https://github.com/MDAnalysis/MDAnalysis.github.io/pull/267
+
+## LFortran Documentation Fix -
+
+1. LFortran Compiler Website -
+
+   Issue: https://github.com/lfortran/lcompilers_frontend/issues/6
+   
+   PR: https://github.com/lfortran/lcompilers_frontend/pull/56
