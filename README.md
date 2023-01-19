@@ -7,6 +7,7 @@ https://medium.com/@BhaswatiRoy
 1. FLINT Handbook -
 
    Issue: https://github.com/moja-global/Handbook/issues/8
+   
    PR: https://github.com/moja-global/Handbook/pull/15
 
 ## Open Minded Blog -
@@ -14,6 +15,7 @@ https://medium.com/@BhaswatiRoy
 1. Superfast Differential Privacy - 
 
    Issue: https://github.com/OpenMined/writing/issues/162
+   
    Writing: https://blog.openmined.org/superfast-differential-privacy/
 
 ## OpenRefine Documentation Fix -
@@ -21,6 +23,7 @@ https://medium.com/@BhaswatiRoy
 1. OpenRefine Website -    
    
    Issue: https://github.com/OpenRefine/openrefine.org/issues/153
+   
    PR: https://github.com/OpenRefine/openrefine.org/pull/181
 
 ## MDAnalysis Documentation Fix -
