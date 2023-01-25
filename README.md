@@ -2,7 +2,7 @@
 
 https://medium.com/@BhaswatiRoy
 
-## Moja Global Documentation Fix -
+## Moja Global -
 
 1. FLINT Handbook -
 
@@ -10,7 +10,7 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/moja-global/Handbook/pull/15
 
-## Open Minded Blog -
+## Open Minded -
 
 1. Superfast Differential Privacy - 
 
@@ -18,7 +18,7 @@ https://medium.com/@BhaswatiRoy
    
    Writing: https://blog.openmined.org/superfast-differential-privacy/
 
-## OpenRefine Documentation Fix -
+## OpenRefine -
    
 1. OpenRefine Website -    
    
@@ -26,7 +26,7 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/OpenRefine/openrefine.org/pull/181
 
-## MDAnalysis Documentation Fix -
+## MDAnalysis -
  
 1. MDAnalysis Website -
 
@@ -34,7 +34,7 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/MDAnalysis/MDAnalysis.github.io/pull/267
 
-## LFortran Documentation Fix -
+## LFortran -
 
 1. LFortran Compiler Website -
 
@@ -42,7 +42,7 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/lfortran/lcompilers_frontend/pull/56
    
-## PYMC Documentation Fix -
+## PYMC -
 
 1. PyMCon Website Logo replace -
 
@@ -56,7 +56,7 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/pymc-devs/pymc.io/pull/72
 
-## Numpy Documentation Fix -
+## Numpy -
 
 1. Community Calendar link addition
 
@@ -64,7 +64,7 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/numpy/numpy.org/pull/618
 
-## ExpressLRS Documentation Fix -
+## ExpressLRS -
 
 1. Added 2 new receivers to the list
   
@@ -73,10 +73,18 @@ https://medium.com/@BhaswatiRoy
    PR: https://github.com/ExpressLRS/Docs/pull/284
 
 
-## Iterative Documentation Fix -
+## Iterative -
 
 1. Rephrased sentences containing "please" -
    
    Issue: https://github.com/iterative/dvc.org/issues/3571
    
    PR: https://github.com/iterative/dvc.org/pull/4249
+
+## Mattermost -
+
+1. Documented the communication principle page -
+
+   Issue: https://github.com/mattermost/mattermost-handbook/issues/104
+   
+   PR: https://github.com/mattermost/mattermost-handbook/pull/1168
