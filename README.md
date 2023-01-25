@@ -44,12 +44,18 @@ https://medium.com/@BhaswatiRoy
    
 ## PYMC Documentation Fix -
 
-1. PyMCon Website Logo Replace -
+1. PyMCon Website Logo replace -
 
    Issue: https://github.com/pymc-devs/pymcon/issues/111
    
    PR: https://github.com/pymc-devs/pymcon/pull/112
+
+2. PyMC Website Swag Section addition and Social Section updation-
+
+   Issue: https://github.com/pymc-devs/pymc.io/issues/29
    
+   PR: https://github.com/pymc-devs/pymc.io/pull/72
+
 ## Numpy Documentation Fix -
 
 1. Community Calendar link addition
