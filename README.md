@@ -50,7 +50,7 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/pymc-devs/pymcon/pull/112
 
-2. PyMC Website Swag Section addition and Social Section updation-
+2. PyMC Website Swag Section addition and Social Section updation -
 
    Issue: https://github.com/pymc-devs/pymc.io/issues/29
    
@@ -71,3 +71,12 @@ https://medium.com/@BhaswatiRoy
    Issue: https://github.com/ExpressLRS/Docs/issues/258
    
    PR: https://github.com/ExpressLRS/Docs/pull/284
+
+
+## Iterative Documentation Fix -
+
+1. Rephrased sentences containing "please" -
+   
+   Issue: https://github.com/iterative/dvc.org/issues/3571
+   
+   PR: https://github.com/iterative/dvc.org/pull/4249
