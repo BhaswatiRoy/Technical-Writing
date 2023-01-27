@@ -18,6 +18,12 @@ https://medium.com/@BhaswatiRoy
    
    Writing: https://blog.openmined.org/superfast-differential-privacy/
 
+2. Differential Privacy Advances Part 1: Strengths & Weaknesses
+   
+   Issue: https://github.com/OpenMined/writing/issues/82
+   
+   Writing: https://blog.openmined.org/differential-privacy-advances-part-1-strengths-weaknesses/
+
 ## OpenRefine -
    
 1. OpenRefine Website -    
