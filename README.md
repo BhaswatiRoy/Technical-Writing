@@ -62,6 +62,12 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/pymc-devs/pymc.io/pull/72
 
+3. PyMCon Website Links addition -
+   
+   Issue: https://github.com/pymc-devs/pymc.io/issues/30
+   
+   PR: https://github.com/pymc-devs/pymc.io/pull/76
+
 ## Numpy -
 
 1. Community Calendar link addition
@@ -94,3 +100,11 @@ https://medium.com/@BhaswatiRoy
    Issue: https://github.com/mattermost/mattermost-handbook/issues/104
    
    PR: https://github.com/mattermost/mattermost-handbook/pull/1168
+
+## AsyncAPI -
+
+1. Documented the financially supporting page
+
+   Issue: https://github.com/asyncapi/community/issues/505
+   
+   PR: https://github.com/asyncapi/community/pull/582
