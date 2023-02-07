@@ -108,3 +108,9 @@ https://medium.com/@BhaswatiRoy
    Issue: https://github.com/asyncapi/community/issues/505
    
    PR: https://github.com/asyncapi/community/pull/582
+   
+2. Updated Version name to latest version on landing page
+
+   Issue: https://github.com/asyncapi/website/issues/1302
+   
+   PR: https://github.com/asyncapi/website/pull/1303
