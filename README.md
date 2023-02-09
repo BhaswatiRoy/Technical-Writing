@@ -114,3 +114,7 @@ https://medium.com/@BhaswatiRoy
    Issue: https://github.com/asyncapi/website/issues/1302
    
    PR: https://github.com/asyncapi/website/pull/1303
+
+3. Added to contributors list in AsyncAPI README
+   
+   PR: https://github.com/asyncapi/community/pull/594
