@@ -10,6 +10,10 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/moja-global/Handbook/pull/15
 
+2. MOM of Community Meeting -
+   
+   PR: https://github.com/moja-global/About_moja_global/pull/185 
+
 ## Open Minded -
 
 1. Superfast Differential Privacy - 
