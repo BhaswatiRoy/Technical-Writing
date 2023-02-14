@@ -72,6 +72,12 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/pymc-devs/pymc.io/pull/76
 
+4. Welcome Bot improved with updated contents & links -
+
+   Issue: https://github.com/pymc-devs/pymc-data-umbrella/issues/191
+   
+   PR: https://github.com/pymc-devs/pymc-data-umbrella/pull/192
+
 ## Numpy -
 
 1. Community Calendar link addition
