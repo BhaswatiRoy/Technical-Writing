@@ -4,13 +4,7 @@ https://medium.com/@BhaswatiRoy
 
 ## Moja Global -
 
-1. FLINT Handbook -
-
-   Issue: https://github.com/moja-global/Handbook/issues/8
-   
-   PR: https://github.com/moja-global/Handbook/pull/15
-
-2. MOM of Community Meeting -
+1. MOM of Community Meeting -
    
    PR: https://github.com/moja-global/About_moja_global/pull/185 
 
@@ -35,14 +29,6 @@ https://medium.com/@BhaswatiRoy
    Issue: https://github.com/OpenRefine/openrefine.org/issues/153
    
    PR: https://github.com/OpenRefine/openrefine.org/pull/181
-
-## MDAnalysis -
- 
-1. MDAnalysis Website -
-
-   Issue: https://github.com/MDAnalysis/MDAnalysis.github.io/issues/214
-   
-   PR: https://github.com/MDAnalysis/MDAnalysis.github.io/pull/267
 
 ## LFortran -
 
@@ -102,14 +88,6 @@ https://medium.com/@BhaswatiRoy
    Issue: https://github.com/iterative/dvc.org/issues/3571
    
    PR: https://github.com/iterative/dvc.org/pull/4249
-
-## Mattermost -
-
-1. Documented the communication principle page -
-
-   Issue: https://github.com/mattermost/mattermost-handbook/issues/104
-   
-   PR: https://github.com/mattermost/mattermost-handbook/pull/1168
 
 ## AsyncAPI -
 
