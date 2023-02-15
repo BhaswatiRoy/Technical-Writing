@@ -8,20 +8,6 @@ https://medium.com/@BhaswatiRoy
    
    PR: https://github.com/moja-global/About_moja_global/pull/185 
 
-## Open Minded -
-
-1. Superfast Differential Privacy - 
-
-   Issue: https://github.com/OpenMined/writing/issues/162
-   
-   Writing: https://blog.openmined.org/superfast-differential-privacy/
-
-2. Differential Privacy Advances Part 1: Strengths & Weaknesses
-   
-   Issue: https://github.com/OpenMined/writing/issues/82
-   
-   Writing: https://blog.openmined.org/differential-privacy-advances-part-1-strengths-weaknesses/
-
 ## OpenRefine -
    
 1. OpenRefine Website -    
@@ -106,3 +92,17 @@ https://medium.com/@BhaswatiRoy
 3. Added to contributors list in AsyncAPI README
    
    PR: https://github.com/asyncapi/community/pull/594
+
+## Open Minded -
+
+1. Superfast Differential Privacy - 
+
+   Issue: https://github.com/OpenMined/writing/issues/162
+   
+   Writing: https://blog.openmined.org/superfast-differential-privacy/
+
+2. Differential Privacy Advances Part 1: Strengths & Weaknesses
+   
+   Issue: https://github.com/OpenMined/writing/issues/82
+   
+   Writing: https://blog.openmined.org/differential-privacy-advances-part-1-strengths-weaknesses/
